@@ -1,2 +1,3 @@
-https://circuitdigest.com/electronic-circuits/simple-white-noise-generator-circuit-diagram
-rene smith sah
+https://www.youtube.com/watch?v=cyQMa4U0Wfs&t=296s
+
+https://circuitdigest.com/electronic-circuits/sample-and-hold-circuit-op-amp
