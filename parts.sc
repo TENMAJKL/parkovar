@@ -111,4 +111,4 @@ let L29 = @sum(B29:K29)
 label A30 = "trimpot"
 let J30 = 12
 let L30 = @sum(B30:K30)
-goto D21
+goto A28
